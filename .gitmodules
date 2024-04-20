@@ -4,3 +4,6 @@
 [submodule "FreeRTOS-Kria-"]
 	path = FreeRTOS-Kria-
 	url = https://github.com/stevenhernandezz/FreeRTOS-Kria-
+[submodule "UART-GPIO-Kria"]
+	path = UART-GPIO-Kria
+	url = https://github.com/stevenhernandezz/UART-GPIO-Kria
